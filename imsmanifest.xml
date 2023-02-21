@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5bjUpzRv2ZQ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">چت با اساتید دوره و دستیار آموزشی</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="چت_با_اساتید_دوره_و_دستیار_آموزشی_ORG">
+    <organization identifier="چت_با_اساتید_دوره_و_دستیار_آموزشی_ORG">
+      <title>چت با اساتید دوره و دستیار آموزشی</title>
+      <item identifier="SL360_Demo_-_Employee_Health_and_Wellness_v19_SCO" isvisible="true" identifierref="__5bjUpzRv2ZQ_course_id_RES">
+        <title>چت با اساتید دوره و دستیار آموزشی</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5bjUpzRv2ZQ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6AS6Zw5AEHv.png" />
+      <file href="mobile/6QAtHCZvWWt.png" />
+      <file href="mobile/5tFNqjdpWL2_M_192_192.png" />
+      <file href="mobile/5nHSzGxGUe1_P_143_1671_349_329.jpg" />
+      <file href="mobile/642wyGiuoJD_M_116_116.png" />
+      <file href="mobile/5yhi0iMCWUc_P_1157_434_463_455.jpg" />
+      <file href="mobile/5tFNqjdpWL2_M_190_190.png" />
+      <file href="mobile/5VDKlDpkrqs_P_757_555_551_486.jpg" />
+      <file href="mobile/5nmklDcOzuN_M_116_116.png" />
+      <file href="mobile/6JZwRhp56Xt.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape69gra4kd6dt.png" />
+      <file href="mobile/Shape5fp6UNLTIYl.png" />
+      <file href="mobile/Shape6LvY2b1lYE9.png" />
+      <file href="mobile/txt__default_69rQ7SsyeJ7.png" />
+      <file href="mobile/Shape6FuoyVV88IE.png" />
+      <file href="mobile/Shape6cPABlJHLII.png" />
+      <file href="mobile/txt__default_6CqsLGh6L1g.png" />
+      <file href="mobile/Shape5qa6XYuGJeN.png" />
+      <file href="mobile/Shape6XMrxq4EGYB.png" />
+      <file href="mobile/txt__default_6Q1zxyARscz.png" />
+      <file href="mobile/Shape6H3kqEV3TBb.png" />
+      <file href="mobile/Shape5ZHpysktC32.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5myduqKBtTi.js" />
+      <file href="html5/data/js/6CEHUoBCZW3.js" />
+      <file href="html5/data/js/6cqyoBAagk6.js" />
+      <file href="html5/data/js/6jLxyIsA1sl.js" />
+      <file href="html5/data/js/6mDYTWd2E06.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
